@@ -15,7 +15,7 @@
 
 ### `whoami`
 
-- 🎓 B.E. Information Technology @ Thadomal Shahani Engineering College, Mumbai University — **CGPI 8.145**
+- 🎓 B.E. Information Technology @ Thadomal Shahani Engineering College, Mumbai University — **CGPI 8.142**
 - 🛠️ Focused on **backend engineering, data analytics, and the systems that connect the two**
 - 🌱 Currently exploring zero-dependency systems design and workflow scheduling
 - 🎤 Also a District & Zonal-level folk singing champion, representing Mumbai — because balance matters
